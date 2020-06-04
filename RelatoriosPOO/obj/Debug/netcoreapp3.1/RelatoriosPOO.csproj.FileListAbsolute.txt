@@ -1,0 +1,13 @@
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.exe
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.deps.json
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.dll
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.pdb
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.dll
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.pdb
+C:\Users\pedro\Documents\Programação\Aula10Polimorfismo\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.genruntimeconfig.cache
